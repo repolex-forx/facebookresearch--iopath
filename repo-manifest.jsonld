@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/iopath/commit/44f9a451ac092a2b14395e6264b80f0aedfcec1b",
       "git:hexsha": "44f9a451ac092a2b14395e6264b80f0aedfcec1b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T06:20:05.511476+00:00"
     },
     {
       "@id": "https://repolex.ai/r/facebookresearch/iopath/commit/b3ea6da153ab61b3b8687544c0708a4234a8fb58",
